@@ -1,0 +1,2 @@
+# ask
+go out
